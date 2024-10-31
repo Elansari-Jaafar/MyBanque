@@ -1,7 +1,6 @@
 package com.MyBanque.MyBanque.Config;
 
 import com.MyBanque.MyBanque.ServiceRest.CompteRestJaxRSAPI;
-import com.MyBanque.MyBanque.entities.Compte;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
